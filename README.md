@@ -1,6 +1,6 @@
 # CoreView
 
-CoreView is an intuitive, user-friendly C++ CLI system informer designed to provide deep insights into your hardware and operating system.
+CoreView is an intuitive, user-friendly C++ CLI system informer for **Windows** designed to provide deep insights into your hardware and operating system.
 
 ## Overview
 
@@ -41,7 +41,15 @@ If you prefer to compile the source code yourself, ensure you have a C++ compile
 This tool is currently in active development. If you find a bug, encounter a crash, or have a feature suggestion, please help us improve by reporting it:
 
 * **Issue Tracker:** Please open a new issue on the [GitHub Issues page](https://github.com/Asterixss/CoreView/issues).
-* **Information to Include:** When reporting a bug, please include your OS version, PC-Specs (E.g. Windows 11, x64 | RTX 5060, ...) and an Screenshot if possible.
+* **What Bug to report:** Please report an bug, if e.g. some Information is not shown, or something is wrong. (I have an RTX .... but it says i have an Intel?)
+* **Information to Include:** When reporting a bug, please include the following Information:
+  - CPU
+  - GPU (Nvidia RTX 50.., etc.)
+  - Windows (x64, Windows Enterprise, etc.)
+  - Screenshot
+   
+* **Review Process:** An Developer of CoreView may require more Information and could need more Information.
+* **⚠️ Information NOT to include:** Please do not include any
 
 We appreciate your contributions in making CoreView more stable and reliable.
 
