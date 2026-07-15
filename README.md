@@ -48,7 +48,7 @@ This tool is currently in active development. If you find a bug, encounter a cra
   - Windows (x64, Windows Enterprise, etc.)
   - Screenshot
    
-* **Review Process:** An Developer of CoreView may require more Information and could need more Information.
+* **Review Process:** A *CoreView* developer may reach out to request additional information if needed.
 
 We appreciate your contributions in making CoreView more stable and reliable.
 
