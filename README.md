@@ -37,4 +37,5 @@ If you prefer to compile the source code yourself, ensure you have a C++ compile
 * Transparent: Open-source code allows you to verify exactly what data is being queried.
 
 Note: CoreView requires Admin Rights to provide deep insights of your Hardware & OS. (Runs By Default with Admin Rights)
+
 Note2: Windows Defender or other Anti-Virus Applications could theoretically flag CoreView as an Persistant Virus or something else, Please make sure, that you ONLY download CoreView from Here (Inside the Release tab).
