@@ -2,6 +2,8 @@
 
 CoreView is an intuitive, user-friendly C++ CLI system informer for **Windows** designed to provide deep insights into your hardware and operating system licensed under the EULA License.
 
+[What is this](showcase_1.png)
+
 ## Overview
 
 CoreView strips away the complexity of system monitoring, offering a clean interface to view your PC technical specifications and connected peripherals at a glance.
