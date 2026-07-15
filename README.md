@@ -36,6 +36,11 @@ If you prefer to compile the source code yourself, ensure you have a C++ compile
 * Fast: Get the information you need in milliseconds.
 * Transparent: Open-source code allows you to verify exactly what data is being queried.
 
+## Build Clarification
+* FR = Full-Release (New & Stable Version)
+* FC = Full-Custom (Stable but modified Version, e.g. RGB / NO RGB)
+* PR = Pre-Release (un-stable but Early Version)
+
 ## Feedback and Bug Reporting
 
 This tool is currently in active development. If you find a bug, encounter a crash, or have a feature suggestion, please help us improve by reporting it:
@@ -47,6 +52,7 @@ This tool is currently in active development. If you find a bug, encounter a cra
   - GPU (Nvidia RTX 50.., etc.)
   - Windows (x64, Windows Enterprise, etc.)
   - Screenshot
+  - CoreView Version (You can find the CoreView version ALWAYS under the banner, e.g. [CoreView.1 - FR])
    
 * **Review Process:** A *CoreView* developer may reach out to request additional information if needed.
 
