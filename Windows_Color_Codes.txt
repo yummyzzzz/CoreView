@@ -1,0 +1,14 @@
+CoreView uses an interesting approach to display colors in the Console...
+
+CoreView uses an custom-made Function:
+    void setColor(int color) {
+        HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
+        SetConsoleTextAttribute(hConsole, color);
+    }
+
+CoreView uses it like this:
+setColor(7);
+
+But, what does the 7 mean?
+
+In This Repository, i have attached an Excel File, that contains 255 Windows Color Codes, e.g. 3 = Aqua, 4 = Red, ...
