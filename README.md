@@ -49,7 +49,6 @@ This tool is currently in active development. If you find a bug, encounter a cra
   - Screenshot
    
 * **Review Process:** An Developer of CoreView may require more Information and could need more Information.
-* **⚠️ Information NOT to include:** Please do not include any
 
 We appreciate your contributions in making CoreView more stable and reliable.
 
