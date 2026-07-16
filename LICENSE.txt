@@ -4,7 +4,9 @@
 ================================================================================
 
 Copyright (c) 2026 yummyzzzz (https://github.com/yummyzzzz)
-Official Project Link: https://github.com/yummyzzzz/CoreInstaller
+Official Project Links: 
+https://github.com/yummyzzzz/CoreInstaller
+https://github.com/yummyzzzz/CoreView
 
 ================================================================================
 1. PREAMBLE & INTENT
