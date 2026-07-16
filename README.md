@@ -66,6 +66,4 @@ This tool is currently in active development. If you find a bug, encounter a cra
 
 We appreciate your contributions in making CoreView more stable and reliable.
 
-**Note: CoreView requires Admin Rights to provide deep insights of your Hardware & OS. (Runs By Default with Admin Rights)**
-**Windows Defender or other Anti-Virus Software could theoretically flag CoreView as an Virus, Please make sure, that you ONLY download CoreView from Here (Inside the Release tab or compile it on your own). 
-The Project fully open-source, so you can verify what happens behind the Scenes completely on your own.**
+**Some hardware queries require elevated privileges. Because CoreView accesses detailed system information, some security software may request confirmation before execution.**
